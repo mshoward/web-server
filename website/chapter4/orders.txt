@@ -1,0 +1,8 @@
+14:39, 28th August 2014#5 #1#0#1#3#$21.89#nowhere#1
+11:29, 7th September 2014#132 #33 #33 #33 #33 #$7.25#This is a street#This is a number#mshoward@mail.lipscomb.edu#
+11:31, 7th September 2014#132 #33 #33 #33 #33 #$7.25#This is a street#this is a number#mshoward@mail.lipscomb.edu#
+13:07, 7th September 2014#132 #33 #33 #33 #33 #$869.87#This is a street#this is a number#mshoward@mail.lipscomb.edu#
+20:02, 8th September 2014#2 #2 # # # #$6.75###becky.tallon@lipscomb.edu#
+20:06, 8th September 2014#3 #3 # # # #$9.75###becky.tallon@lipscomb.edu#
+10:34, 9th September 2014#2 #1 # #1 # #$6.89###becky.tallon@lipscomb.edu#
+08:21, 10th September 2014#-96 #two #3 #few #-99 #$-450.00#left#123-nope#not-an-email.edu#
